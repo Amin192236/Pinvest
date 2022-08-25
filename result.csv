@@ -1,0 +1,93 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1661356021789,8844,https://my.pinvest.ir/auth,200,"Embedded resource download error:https://my.pinvest.ir/images/icons/icon-512x512.png code:404 message:Not Found, https://my.pinvest.ir/js/app.js code:Non HTTP response code: org.apache.http.NoHttpResponseException message:Non HTTP response message: my.pinvest.ir:443 failed to respond, ",Thread Group 1-1,text,false,,1141584,9311,1,1,https://my.pinvest.ir/auth,2768,0,2547
+1661356021789,2788,https://my.pinvest.ir/auth-0,200,OK,Thread Group 1-1,text,true,,16491,598,1,1,https://my.pinvest.ir/auth,2768,0,2547
+1661356024744,2658,https://my.pinvest.ir/auth-1,200,OK,Thread Group 1-1,bin,true,,1790,730,1,1,https://my.pinvest.ir/images/favicon.png,2657,0,2158
+1661356024744,2708,https://my.pinvest.ir/auth-2,200,OK,Thread Group 1-1,text,true,,409500,735,1,1,https://my.pinvest.ir/css/pages/user/main.css,122,0,0
+1661356024744,2656,https://my.pinvest.ir/auth-3,200,OK,Thread Group 1-1,text,true,,3472,735,1,1,https://my.pinvest.ir/css/pages/user/auth.css,2656,0,2158
+1661356024743,5890,https://my.pinvest.ir/auth-4,200,OK,Thread Group 1-1,text,true,,204956,628,1,1,https://www.googletagmanager.com/gtag/js?id=G-0TJJMBYH03,5439,0,3759
+1661356024744,2662,https://my.pinvest.ir/auth-5,404,Not Found,Thread Group 1-1,text,false,,3354,741,1,1,https://my.pinvest.ir/images/icons/icon-512x512.png,2661,0,2158
+1661356024745,2658,https://my.pinvest.ir/auth-6,200,OK,Thread Group 1-1,bin,true,,5058,727,1,1,https://my.pinvest.ir/images/logo.png,2657,0,2157
+1661356027410,1040,https://my.pinvest.ir/auth-7,200,OK,Thread Group 1-1,bin,true,,77510,735,1,1,https://my.pinvest.ir/images/slider/pic1.jpeg,872,0,0
+1661356027416,1067,https://my.pinvest.ir/auth-8,200,OK,Thread Group 1-1,bin,true,,64362,735,1,1,https://my.pinvest.ir/images/slider/pic2.jpeg,946,0,0
+1661356027418,1085,https://my.pinvest.ir/auth-9,200,OK,Thread Group 1-1,bin,true,,43646,735,1,1,https://my.pinvest.ir/images/slider/pic3.jpeg,1075,0,0
+1661356028140,366,https://my.pinvest.ir/auth-10,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: my.pinvest.ir:443 failed to respond,Thread Group 1-1,text,false,,2114,0,1,1,https://my.pinvest.ir/js/app.js,0,0,0
+1661356028451,1829,https://my.pinvest.ir/auth-11,200,OK,Thread Group 1-1,text,true,,151686,733,1,1,https://my.pinvest.ir/js/pages/user/main.js,85,0,0
+1661356028484,1301,https://my.pinvest.ir/auth-12,200,OK,Thread Group 1-1,text,true,,1203,733,1,1,https://my.pinvest.ir/js/pages/user/auth.js,1301,0,0
+1661356028505,1959,https://my.pinvest.ir/auth-13,200,OK,Thread Group 1-1,text,true,,156442,746,1,1,https://my.pinvest.ir/js/pages/user/auth-nationalcode.js,1467,0,0
+1661356030646,174,https://my.pinvest.ir/api/v1/checkUser,200,OK,Thread Group 1-1,text,true,,2195,684,1,1,https://my.pinvest.ir/api/v1/checkUser,174,0,0
+1661356045188,119,https://my.pinvest.ir/auth/password,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: my.pinvest.ir:443 failed to respond,Thread Group 1-1,text,false,,2083,0,1,1,https://my.pinvest.ir/auth/password,0,0,0
+1661356045311,59,https://my.pinvest.ir/api/v1/auth/signIn,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: my.pinvest.ir:443 failed to respond,Thread Group 1-1,text,false,,2083,0,1,1,https://my.pinvest.ir/api/v1/auth/signIn,0,0,0
+1661356051603,1561,https://my.pinvest.ir/,200,"Embedded resource download error:https://my.pinvest.ir/images/icons/icon-512x512.png code:404 message:Not Found, ",Thread Group 1-1,text,false,,827329,17458,1,1,https://my.pinvest.ir/auth,149,0,0
+1661356051603,149,https://my.pinvest.ir/-0,302,Found,Thread Group 1-1,text,true,,1934,1121,1,1,https://my.pinvest.ir/,149,0,0
+1661356051755,112,https://my.pinvest.ir/-1,200,OK,Thread Group 1-1,text,true,,16491,1125,1,1,https://my.pinvest.ir/auth,111,0,0
+1661356051896,622,https://my.pinvest.ir/-2,304,Not Modified,Thread Group 1-1,,true,,179,1225,1,1,https://my.pinvest.ir/images/favicon.png,0,0,541
+1661356051896,151,https://my.pinvest.ir/-3,304,Not Modified,Thread Group 1-1,,true,,181,1232,1,1,https://my.pinvest.ir/css/pages/user/main.css,0,0,0
+1661356051896,623,https://my.pinvest.ir/-4,304,Not Modified,Thread Group 1-1,,true,,179,1230,1,1,https://my.pinvest.ir/css/pages/user/auth.css,0,0,551
+1661356051896,540,https://my.pinvest.ir/-5,200,OK,Thread Group 1-1,text,true,,204948,630,1,1,https://www.googletagmanager.com/gtag/js?id=G-0TJJMBYH03,248,0,0
+1661356051896,249,https://my.pinvest.ir/-6,404,Not Found,Thread Group 1-1,text,false,,3354,1150,1,1,https://my.pinvest.ir/images/icons/icon-512x512.png,248,0,0
+1661356051965,481,https://my.pinvest.ir/-7,304,Not Modified,Thread Group 1-1,,true,,179,1222,1,1,https://my.pinvest.ir/images/logo.png,0,0,182
+1661356052049,237,https://my.pinvest.ir/-8,304,Not Modified,Thread Group 1-1,,true,,181,1232,1,1,https://my.pinvest.ir/images/slider/pic1.jpeg,0,0,0
+1661356052145,292,https://my.pinvest.ir/-9,304,Not Modified,Thread Group 1-1,,true,,180,1231,1,1,https://my.pinvest.ir/images/slider/pic2.jpeg,0,0,0
+1661356052288,149,https://my.pinvest.ir/-10,304,Not Modified,Thread Group 1-1,,true,,180,1231,1,1,https://my.pinvest.ir/images/slider/pic3.jpeg,0,0,0
+1661356052437,727,https://my.pinvest.ir/-11,200,OK,Thread Group 1-1,text,true,,598804,1130,1,1,https://my.pinvest.ir/js/app.js,118,0,0
+1661356052438,402,https://my.pinvest.ir/-12,304,Not Modified,Thread Group 1-1,,true,,181,1230,1,1,https://my.pinvest.ir/js/pages/user/main.js,0,0,283
+1661356052438,73,https://my.pinvest.ir/-13,304,Not Modified,Thread Group 1-1,,true,,177,1226,1,1,https://my.pinvest.ir/js/pages/user/auth.js,0,0,0
+1661356052447,72,https://my.pinvest.ir/-14,304,Not Modified,Thread Group 1-1,,true,,181,1243,1,1,https://my.pinvest.ir/js/pages/user/auth-nationalcode.js,0,0,0
+1661356053179,64,https://my.pinvest.ir/api/v1/user/profile,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: my.pinvest.ir:443 failed to respond,Thread Group 1-1,text,false,,2083,0,1,1,https://my.pinvest.ir/api/v1/user/profile,0,0,0
+1661356053247,103,https://my.pinvest.ir/api/v1/notification/countUnRead,401,Unauthorized,Thread Group 1-1,text,false,,1379,1042,1,1,https://my.pinvest.ir/api/v1/notification/countUnRead,102,0,0
+1661356053352,101,https://my.pinvest.ir/api/v1/funds?page=all&size=15,401,Unauthorized,Thread Group 1-1,text,false,,1379,1040,1,1,https://my.pinvest.ir/api/v1/funds?size=15&page=all,100,0,0
+1661356053455,136,https://my.pinvest.ir/api/v1/user/bank/cards?page=all&sort_by=name&size=15,401,Unauthorized,Thread Group 1-1,text,false,,1379,1063,1,1,https://my.pinvest.ir/api/v1/user/bank/cards?size=15&page=all&sort_by=name,136,0,0
+1661356053593,113,https://my.pinvest.ir/api/v1/user/funds,401,Unauthorized,Thread Group 1-1,text,false,,1379,1028,1,1,https://my.pinvest.ir/api/v1/user/funds,113,0,0
+1661356053709,118,https://my.pinvest.ir/api/v1/user/bank/cards/undefined/fund,401,Unauthorized,Thread Group 1-1,text,false,,1379,1048,1,1,https://my.pinvest.ir/api/v1/user/bank/cards/undefined/fund,117,0,0
+1661356053830,113,https://my.pinvest.ir/api/v1/user/report/chart/transaction/undefined?from_date=2022-07-25&to_date=2022-08-24&type=withdraw,401,Unauthorized,Thread Group 1-1,text,false,,1379,1111,1,1,https://my.pinvest.ir/api/v1/user/report/chart/transaction/undefined?from_date=2022-07-25&to_date=2022-08-24&type=withdraw,113,0,0
+1661356053946,126,https://my.pinvest.ir/api/v1/fund/2,401,Unauthorized,Thread Group 1-1,text,false,,1379,1024,1,1,https://my.pinvest.ir/api/v1/fund/2,126,0,0
+1661356054074,107,https://my.pinvest.ir/api/v1/user/report/chart/fund/2?from_date=2022-08-18&to_date=2022-08-24,401,Unauthorized,Thread Group 1-1,text,false,,1379,1082,1,1,https://my.pinvest.ir/api/v1/user/report/chart/fund/2?from_date=2022-08-18&to_date=2022-08-24,107,0,0
+1661356054184,119,https://my.pinvest.ir/api/v1/user/fund/2/balance,401,Unauthorized,Thread Group 1-1,text,false,,1379,1037,1,1,https://my.pinvest.ir/api/v1/user/fund/2/balance,118,0,0
+1661356054917,642,https://my.pinvest.ir/funds,200,"Embedded resource download error:https://my.pinvest.ir/images/icons/icon-512x512.png code:404 message:Not Found, ",Thread Group 1-1,text,false,,228706,17551,1,1,https://my.pinvest.ir/auth,130,0,0
+1661356054917,130,https://my.pinvest.ir/funds-0,302,Found,Thread Group 1-1,text,true,,1934,1126,1,1,https://my.pinvest.ir/funds,130,0,0
+1661356055049,154,https://my.pinvest.ir/funds-1,200,OK,Thread Group 1-1,text,true,,16491,1125,1,1,https://my.pinvest.ir/auth,153,0,0
+1661356055226,131,https://my.pinvest.ir/funds-2,304,Not Modified,Thread Group 1-1,,true,,179,1225,1,1,https://my.pinvest.ir/images/favicon.png,0,0,0
+1661356055226,131,https://my.pinvest.ir/funds-3,304,Not Modified,Thread Group 1-1,,true,,181,1232,1,1,https://my.pinvest.ir/css/pages/user/main.css,0,0,0
+1661356055226,131,https://my.pinvest.ir/funds-4,304,Not Modified,Thread Group 1-1,,true,,179,1230,1,1,https://my.pinvest.ir/css/pages/user/auth.css,0,0,0
+1661356055225,303,https://my.pinvest.ir/funds-5,200,OK,Thread Group 1-1,text,true,,204948,630,1,1,https://www.googletagmanager.com/gtag/js?id=G-0TJJMBYH03,164,0,0
+1661356055226,132,https://my.pinvest.ir/funds-6,404,Not Found,Thread Group 1-1,text,false,,3354,1150,1,1,https://my.pinvest.ir/images/icons/icon-512x512.png,132,0,0
+1661356055226,131,https://my.pinvest.ir/funds-7,304,Not Modified,Thread Group 1-1,,true,,179,1222,1,1,https://my.pinvest.ir/images/logo.png,0,0,0
+1661356055358,128,https://my.pinvest.ir/funds-8,304,Not Modified,Thread Group 1-1,,true,,181,1232,1,1,https://my.pinvest.ir/images/slider/pic1.jpeg,0,0,0
+1661356055358,157,https://my.pinvest.ir/funds-9,304,Not Modified,Thread Group 1-1,,true,,180,1231,1,1,https://my.pinvest.ir/images/slider/pic2.jpeg,0,0,0
+1661356055359,127,https://my.pinvest.ir/funds-10,304,Not Modified,Thread Group 1-1,,true,,180,1231,1,1,https://my.pinvest.ir/images/slider/pic3.jpeg,0,0,0
+1661356055359,162,https://my.pinvest.ir/funds-11,304,Not Modified,Thread Group 1-1,,true,,181,1218,1,1,https://my.pinvest.ir/js/app.js,0,0,0
+1661356055359,127,https://my.pinvest.ir/funds-12,304,Not Modified,Thread Group 1-1,,true,,181,1230,1,1,https://my.pinvest.ir/js/pages/user/main.js,0,0,0
+1661356055487,56,https://my.pinvest.ir/funds-13,304,Not Modified,Thread Group 1-1,,true,,177,1226,1,1,https://my.pinvest.ir/js/pages/user/auth.js,0,0,0
+1661356055488,71,https://my.pinvest.ir/funds-14,304,Not Modified,Thread Group 1-1,,true,,181,1243,1,1,https://my.pinvest.ir/js/pages/user/auth-nationalcode.js,0,0,0
+1661356055565,108,https://my.pinvest.ir/api/v1/user/profile,401,Unauthorized,Thread Group 1-1,text,false,,1379,1030,1,1,https://my.pinvest.ir/api/v1/user/profile,107,0,0
+1661356055675,97,https://my.pinvest.ir/api/v1/notification/countUnRead,401,Unauthorized,Thread Group 1-1,text,false,,1379,1042,1,1,https://my.pinvest.ir/api/v1/notification/countUnRead,97,0,0
+1661356055774,128,https://my.pinvest.ir/api/v1/funds?page=all&size=15,401,Unauthorized,Thread Group 1-1,text,false,,1379,1040,1,1,https://my.pinvest.ir/api/v1/funds?size=15&page=all,128,0,0
+1661356055904,125,https://my.pinvest.ir/api/v1/user/funds,401,Unauthorized,Thread Group 1-1,text,false,,1379,1028,1,1,https://my.pinvest.ir/api/v1/user/funds,124,0,0
+1661356056031,145,https://my.pinvest.ir/api/v1/fund/2,401,Unauthorized,Thread Group 1-1,text,false,,1379,1024,1,1,https://my.pinvest.ir/api/v1/fund/2,145,0,0
+1661356056178,125,https://my.pinvest.ir/api/v1/user/fund/2/balance,401,Unauthorized,Thread Group 1-1,text,false,,1379,1037,1,1,https://my.pinvest.ir/api/v1/user/fund/2/balance,125,0,0
+1661356064343,537,https://my.pinvest.ir/funds-report,200,"Embedded resource download error:https://my.pinvest.ir/images/icons/icon-512x512.png code:404 message:Not Found, ",Thread Group 1-1,text,false,,228706,17558,1,1,https://my.pinvest.ir/auth,129,0,0
+1661356064343,130,https://my.pinvest.ir/funds-report-0,302,Found,Thread Group 1-1,text,true,,1934,1133,1,1,https://my.pinvest.ir/funds-report,129,0,0
+1661356064475,99,https://my.pinvest.ir/funds-report-1,200,OK,Thread Group 1-1,text,true,,16491,1125,1,1,https://my.pinvest.ir/auth,98,0,0
+1661356064596,58,https://my.pinvest.ir/funds-report-2,304,Not Modified,Thread Group 1-1,,true,,179,1225,1,1,https://my.pinvest.ir/images/favicon.png,0,0,0
+1661356064596,67,https://my.pinvest.ir/funds-report-3,304,Not Modified,Thread Group 1-1,,true,,181,1232,1,1,https://my.pinvest.ir/css/pages/user/main.css,0,0,0
+1661356064596,58,https://my.pinvest.ir/funds-report-4,304,Not Modified,Thread Group 1-1,,true,,179,1230,1,1,https://my.pinvest.ir/css/pages/user/auth.css,0,0,0
+1661356064598,282,https://my.pinvest.ir/funds-report-5,200,OK,Thread Group 1-1,text,true,,204948,630,1,1,https://www.googletagmanager.com/gtag/js?id=G-0TJJMBYH03,146,0,0
+1661356064598,111,https://my.pinvest.ir/funds-report-6,404,Not Found,Thread Group 1-1,text,false,,3354,1150,1,1,https://my.pinvest.ir/images/icons/icon-512x512.png,111,0,0
+1661356064598,65,https://my.pinvest.ir/funds-report-7,304,Not Modified,Thread Group 1-1,,true,,179,1222,1,1,https://my.pinvest.ir/images/logo.png,0,0,0
+1661356064656,74,https://my.pinvest.ir/funds-report-8,304,Not Modified,Thread Group 1-1,,true,,181,1232,1,1,https://my.pinvest.ir/images/slider/pic1.jpeg,0,0,0
+1661356064656,71,https://my.pinvest.ir/funds-report-9,304,Not Modified,Thread Group 1-1,,true,,180,1231,1,1,https://my.pinvest.ir/images/slider/pic2.jpeg,0,0,0
+1661356064664,80,https://my.pinvest.ir/funds-report-10,304,Not Modified,Thread Group 1-1,,true,,180,1231,1,1,https://my.pinvest.ir/images/slider/pic3.jpeg,0,0,0
+1661356064664,96,https://my.pinvest.ir/funds-report-11,304,Not Modified,Thread Group 1-1,,true,,181,1218,1,1,https://my.pinvest.ir/js/app.js,0,0,0
+1661356064709,127,https://my.pinvest.ir/funds-report-12,304,Not Modified,Thread Group 1-1,,true,,181,1230,1,1,https://my.pinvest.ir/js/pages/user/main.js,0,0,0
+1661356064728,151,https://my.pinvest.ir/funds-report-13,304,Not Modified,Thread Group 1-1,,true,,177,1226,1,1,https://my.pinvest.ir/js/pages/user/auth.js,0,0,0
+1661356064731,148,https://my.pinvest.ir/funds-report-14,304,Not Modified,Thread Group 1-1,,true,,181,1243,1,1,https://my.pinvest.ir/js/pages/user/auth-nationalcode.js,0,0,0
+1661356064886,93,https://my.pinvest.ir/api/v1/user/profile,401,Unauthorized,Thread Group 1-1,text,false,,1379,1030,1,1,https://my.pinvest.ir/api/v1/user/profile,93,0,0
+1661356064982,99,https://my.pinvest.ir/api/v1/notification/countUnRead,401,Unauthorized,Thread Group 1-1,text,false,,1379,1042,1,1,https://my.pinvest.ir/api/v1/notification/countUnRead,99,0,0
+1661356065084,109,https://my.pinvest.ir/api/v1/user/funds,401,Unauthorized,Thread Group 1-1,text,false,,1379,1028,1,1,https://my.pinvest.ir/api/v1/user/funds,109,0,0
+1661356065196,95,https://my.pinvest.ir/api/v1/funds?page=all&size=15,401,Unauthorized,Thread Group 1-1,text,false,,1379,1040,1,1,https://my.pinvest.ir/api/v1/funds?size=15&page=all,94,0,0
+1661356065293,114,https://my.pinvest.ir/api/v1/user/fund/2/balance,401,Unauthorized,Thread Group 1-1,text,false,,1379,1037,1,1,https://my.pinvest.ir/api/v1/user/fund/2/balance,114,0,0
+1661356065410,98,https://my.pinvest.ir/api/v1/user/report/list/fund/2?from_date=2022-07-25&to_date=2022-08-24&type=pending&page=1&size=10,401,Unauthorized,Thread Group 1-1,text,false,,1379,1109,1,1,https://my.pinvest.ir/api/v1/user/report/list/fund/2?from_date=2022-07-25&to_date=2022-08-24&size=10&page=1&type=pending,98,0,0
+1661356065510,94,https://my.pinvest.ir/api/v1/user/fund/2/profit?page=all&size=10&from_date=2022-07-25&to_date=2022-08-24,401,Unauthorized,Thread Group 1-1,text,false,,1379,1093,1,1,https://my.pinvest.ir/api/v1/user/fund/2/profit?size=10&from_date=2022-07-25&to_date=2022-08-24&page=all,94,0,0
+1661356065607,143,https://my.pinvest.ir/api/v1/user/report/chart/fund/2?from_date=2022-07-25&to_date=2022-08-24,401,Unauthorized,Thread Group 1-1,text,false,,1379,1082,1,1,https://my.pinvest.ir/api/v1/user/report/chart/fund/2?from_date=2022-07-25&to_date=2022-08-24,143,0,0
+1661356065753,91,https://my.pinvest.ir/api/v1/fund/2/history?page=all,401,Unauthorized,Thread Group 1-1,text,false,,1379,1041,1,1,https://my.pinvest.ir/api/v1/fund/2/history?page=all,91,0,0
+1661356021640,14700,Test,,"Number of samples in transaction : 32, number of failing samples : 31",Thread Group 1-1,,false,,2467865,87740,1,1,null,6043,29506,2547
